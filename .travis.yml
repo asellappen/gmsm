@@ -6,7 +6,7 @@ language:
   - go
 go:
   - 1.11.2
-
+go_import_path: github.com/tjfoc/gmsm/sm3
 #before_install:
   #- git rm -r --cached .
   #- git add .
